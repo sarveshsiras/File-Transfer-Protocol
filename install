@@ -1,0 +1,5 @@
+sudo apt-get install python3
+sudo apt-get install python3-pip
+pip3 install python-pam
+pip3 install getpass
+sudo ufw disable
